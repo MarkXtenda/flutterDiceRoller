@@ -3,8 +3,8 @@
 A simple Flutter app that simulates rolling dice. 
 
 ## Sreenshots
-<img src="https://github.com/MarkXtenda/flutterDiceRoller/screenshots/Screenshot1.png?raw=true" />
-<img src="https://github.com/MarkXtenda/flutterDiceRoller/screenshots/Screenshot2.png?raw=true" />
+<div align="center" ><img src="https://github.com/MarkXtenda/flutterDiceRoller/blob/main/screenshots/Screenshot1.png" />
+<img src="https://github.com/MarkXtenda/flutterDiceRoller/blob/main/screenshots/Screenshot2.png" /></div>
 
 ## Installation
 To install and run the app on your local machine, follow these steps:
